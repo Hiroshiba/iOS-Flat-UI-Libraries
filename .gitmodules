@@ -37,3 +37,6 @@
 [submodule "MBSwitch"]
 	path = MBSwitch
 	url = https://github.com/mattlawer/MBSwitch
+[submodule "SIAlertView"]
+	path = SIAlertView
+	url = git://github.com/Sumi-Interactive/SIAlertView
