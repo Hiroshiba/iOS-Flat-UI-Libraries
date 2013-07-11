@@ -25,3 +25,15 @@
 [submodule "FlatButton"]
 	path = FlatButton
 	url = https://github.com/jessesquires/FlatButton
+[submodule "FlatUI"]
+	path = FlatUI
+	url = git://github.com/piotrbernad/FlatUI
+[submodule "FlatDatePicker"]
+	path = FlatDatePicker
+	url = git://github.com/christopherney/FlatDatePicker
+[submodule "DACircularProgress"]
+	path = DACircularProgress
+	url = git://github.com/danielamitay/DACircularProgress
+[submodule "MBSwitch"]
+	path = MBSwitch
+	url = https://github.com/mattlawer/MBSwitch
