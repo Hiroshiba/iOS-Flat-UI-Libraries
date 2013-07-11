@@ -18,25 +18,25 @@
 	url = git://github.com/youknowone/UI7Kit.git
 [submodule "QBFlatButton"]
 	path = QBFlatButton
-	url = https://github.com/questbeat/QBFlatButton
+	url = git://github.com/questbeat/QBFlatButton.git
 [submodule "FlatWebView"]
 	path = FlatWebView
-	url = git://github.com/aaronbrethorst/FlatWebView
+	url = git://github.com/aaronbrethorst/FlatWebView.git
 [submodule "FlatButton"]
 	path = FlatButton
-	url = https://github.com/jessesquires/FlatButton
+	url = git://github.com/jessesquires/FlatButton.git
 [submodule "FlatUI"]
 	path = FlatUI
-	url = git://github.com/piotrbernad/FlatUI
+	url = git://github.com/piotrbernad/FlatUI.git
 [submodule "FlatDatePicker"]
 	path = FlatDatePicker
-	url = git://github.com/christopherney/FlatDatePicker
+	url = git://github.com/christopherney/FlatDatePicker.git
 [submodule "DACircularProgress"]
 	path = DACircularProgress
-	url = git://github.com/danielamitay/DACircularProgress
+	url = git://github.com/danielamitay/DACircularProgress.git
 [submodule "MBSwitch"]
 	path = MBSwitch
-	url = https://github.com/mattlawer/MBSwitch
+	url = git://github.com/mattlawer/MBSwitch.git
 [submodule "SIAlertView"]
 	path = SIAlertView
-	url = git://github.com/Sumi-Interactive/SIAlertView
+	url = git://github.com/Sumi-Interactive/SIAlertView.git
