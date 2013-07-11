@@ -1,0 +1,27 @@
+[submodule "FlatUIKit"]
+	path = FlatUIKit
+	url = git://github.com/Grouper/FlatUIKit.git
+[submodule "CocoaFlatUIColor"]
+	path = CocoaFlatUIColor
+	url = git://github.com/makotokw/CocoaFlatUIColor.git
+[submodule "SHActionSheetBlocks"]
+	path = SHActionSheetBlocks
+	url = git://github.com/seivan/SHActionSheetBlocks.git
+[submodule "GHSidebarNav"]
+	path = GHSidebarNav
+	url = git://github.com/gresrun/GHSidebarNav.git
+[submodule "rcswitch"]
+	path = rcswitch
+	url = git://github.com/robertchin/rcswitch.git
+[submodule "UI7Kit"]
+	path = UI7Kit
+	url = git://github.com/youknowone/UI7Kit.git
+[submodule "QBFlatButton"]
+	path = QBFlatButton
+	url = https://github.com/questbeat/QBFlatButton
+[submodule "FlatWebView"]
+	path = FlatWebView
+	url = git://github.com/aaronbrethorst/FlatWebView
+[submodule "FlatButton"]
+	path = FlatButton
+	url = https://github.com/jessesquires/FlatButton
