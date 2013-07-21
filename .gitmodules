@@ -40,3 +40,6 @@
 [submodule "SIAlertView"]
 	path = SIAlertView
 	url = git://github.com/Sumi-Interactive/SIAlertView.git
+[submodule "FlexibleTabBarController"]
+	path = FlexibleTabBarController
+	url = git://github.com/fidgetfu/FlexibleTabBarController
